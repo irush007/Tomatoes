@@ -1,5 +1,5 @@
 //
-//  XYZViewController.h
+//  MoviesViewController.h
 //  Tomatoes
 //
 //  Created by Hua Wu on 1/20/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface XYZViewController : UIViewController
+@interface MoviesViewController : UITableViewController
 
 @end
